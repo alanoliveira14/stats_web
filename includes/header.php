@@ -37,7 +37,7 @@
                 </div>
             </div>
             <!--logo start-->
-            <a href="index.html" class="logo"><b>Premier League Stats</b></a>
+            <a href="index.php" class="logo"><b>Premier League Stats</b></a>
             <!--logo end-->
             <div class="nav notify-row" id="top_menu">
                 <!--  notification start -->
@@ -56,12 +56,12 @@
                 <ul class="sidebar-menu" id="nav-accordion">
 
                     <p class="centered">
-                        <a href="profile.html"><img src="assets/img/clubs/pl_logo.png" class="img-circle" width="80"></a>
+                        <img src="assets/img/clubs/pl_logo.png" class="img-circle" width="80">
                     </p>
                     <h5 class="centered"></h5>
 
                     <li class="mt">
-                        <a class="active" href="index.html">
+                        <a class="active" href="index.php">
                             <i class="fa fa-dashboard"></i>
                             <span>Dashboard</span>
                         </a>
@@ -73,15 +73,15 @@
                             <span>PL Players</span>
                         </a>
                         <ul class="sub">
-                            <li><a href="keepers.html">Goalkeepers</a></li>
-                            <li><a href="defenders.html">Defenders</a></li>
-                            <li><a href="midfielders.html">Midfielders</a></li>
-                            <li><a href="attackers.html">Attackers</a></li>
+                            <li><a href="keepers.php">Goalkeepers</a></li>
+                            <li><a href="defenders.php">Defenders</a></li>
+                            <li><a href="midfielders.php">Midfielders</a></li>
+                            <li><a href="attackers.php">Attackers</a></li>
                         </ul>
                     </li>
 
                     <li class="sub-menu">
-                        <a href="blank.html">
+                        <a href="blank.php">
                             <i class="fa fa-futbol-o" aria-hidden="true"></i>
                             <span>Teams</span>
                         </a>

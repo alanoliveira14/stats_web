@@ -22,7 +22,7 @@
                               </thead>
                               <tbody>
                                 <tr>
-                                  <th scope="row"><a href= "playerprofile.html"><img src="assets/img/players/hazard.png" height="100px" width="100px"/></a></th>
+                                  <th scope="row"><a href= "playerprofile.php"><img src="assets/img/players/hazard.png" height="100px" width="100px"/></a></th>
                                   <td>Eden</td>
                                   <td>Hazard</td>
                                   <td><img src="assets/img/clubs/chelsea.png" height="20px" width="20px"/> Chelsea</td>

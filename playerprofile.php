@@ -1,5 +1,13 @@
 <?php 
     include ("includes/header.php");
+    include ("includes/config.php");
+    include ("includes/bd_jogador.php");
+$id = 1;    
+
+$hue = pegaJogador($mysqli, $id);
+
+$heue = listaJogador($mysqli);
+
 ?>
 
         <!--main content start-->
@@ -13,7 +21,7 @@
                             <br/>
                             <div class = "row">
                                 <div class = "col-md-4">
-                                    <img src="../assets/img/players/hazardstand.png" width="230px" height="330px"></img>
+                                    <img src="assets/img/players/hazardstand.png" width="230px" height="330px"></img>
                                 </div>
                                 <br/>
                                 <div class = "col-md-8">
@@ -26,7 +34,7 @@
                                               </tr>
                                               <tr>
                                                 <td><strong>Club:</strong></td>
-                                                <td><img src="../assets/img/clubs/chelsea.png" height="30px" width="30px"/> Chelsea Football Club</td>
+                                                <td><img src="assets/img/clubs/chelsea.png" height="30px" width="30px"/> Chelsea Football Club</td>
                                               </tr>
                                               <tr>
                                                 <td><strong>Position:</strong></td>
@@ -60,6 +68,9 @@
                         </div>
                     </center>
 
+                <div>
+                    
+                </div>
 
 
 <?php 
