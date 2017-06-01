@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 
 <head>
@@ -22,19 +21,14 @@
     <!-- Custom styles for this template -->
     <link href="assets/css/stylesheet.css" rel="stylesheet">
     <link href="assets/css/style-responsive.css" rel="stylesheet">
-
-    <script type="text/javascript" src="../assets/js/carousel.js"></script>
 </head>
 
 <body>
 
     <section id="container">
-<!-- 
-***********************************************************************************************************************************************************
-                                                        TOP BAR CONTENT & NOTIFICATIONS
-***********************************************************************************************************************************************************
--->
-
+        <!-- **********************************************************************************************************************************************************
+      TOP BAR CONTENT & NOTIFICATIONS
+      *********************************************************************************************************************************************************** -->
         <!--header start-->
         <header class="header black-bg">
             <div class="sidebar-toggle-box">
@@ -43,19 +37,18 @@
                 </div>
             </div>
             <!--logo start-->
-            <a class="logo"><b>Premier League Stats</b></a>
+            <a href="index.html" class="logo"><b>Premier League Stats</b></a>
             <!--logo end-->
             <div class="nav notify-row" id="top_menu">
                 <!--  notification start -->
                 <!--  notification end -->
             </div>
         </header>
-<!-- 
-***********************************************************************************************************************************************************
-                                                        MAIN SIDEBAR MENU
-***********************************************************************************************************************************************************
--->
+        <!--header end-->
 
+        <!-- **********************************************************************************************************************************************************
+      MAIN SIDEBAR MENU
+      *********************************************************************************************************************************************************** -->
         <!--sidebar start-->
         <aside>
             <div id="sidebar" class="nav-collapse ">
@@ -80,10 +73,10 @@
                             <span>PL Players</span>
                         </a>
                         <ul class="sub">
-                            <li><a href="keepers.php">Goalkeepers</a></li>
-                            <li><a href="defenders.php">Defenders</a></li>
-                            <li><a href="midfielders.php">Midfielders</a></li>
-                            <li><a href="attackers.php">Attackers</a></li>
+                            <li><a href="keepers.html">Goalkeepers</a></li>
+                            <li><a href="defenders.html">Defenders</a></li>
+                            <li><a href="midfielders.html">Midfielders</a></li>
+                            <li><a href="attackers.html">Attackers</a></li>
                         </ul>
                     </li>
 
@@ -104,4 +97,4 @@
                 <!-- sidebar menu end-->
             </div>
         </aside>
-                <!--sidebar end-->
+        <!--sidebar end-->
