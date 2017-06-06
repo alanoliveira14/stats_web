@@ -81,7 +81,7 @@
                     </li>
 
                     <li class="sub-menu">
-                        <a href="blank.php">
+                        <a href="teams.php">
                             <i class="fa fa-futbol-o" aria-hidden="true"></i>
                             <span>Teams</span>
                         </a>
