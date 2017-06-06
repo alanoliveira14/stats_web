@@ -2,12 +2,6 @@
     include ("includes/header.php");
     include ("includes/config.php");
     include ("includes/bd_jogador.php");
-$id = 1;    
-
-$hue = pegaJogador($mysqli, $id);
-
-$heue = listaJogador($mysqli);
-
 ?>
 
         <!--main content start-->
@@ -21,7 +15,7 @@ $heue = listaJogador($mysqli);
                             <br/>
                             <div class = "row">
                                 <div class = "col-md-4">
-                                    <img src="assets/img/players/hazardstand.png" width="230px" height="330px"></img>
+                                    <img src="assets/img/players/hazardstand.png" width="230px" height="330px" />
                                 </div>
                                 <br/>
                                 <div class = "col-md-8">

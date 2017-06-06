@@ -28,7 +28,6 @@
         <footer class="site-footer">
             <div class="text-center">
                 Premier League
-                <img src="assets/img/icons/hue.png" style="height:30px" align="right" />
             </div>
         </footer>
         <!--footer end-->
