@@ -9,7 +9,7 @@
                         <h3>TWEETS</h3>
 
                         <!-- First Action -->
-                        <a class="twitter-timeline" data-height="450" data-theme="light" href="https://twitter.com/premierleague"></a>
+                        <a class="twitter-timeline" data-height="450" data-theme="light" href="https://twitter.com/CBF_Futebol"></a>
                         <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
                         <!-- USERS ONLINE SECTION -->
@@ -27,7 +27,7 @@
         <!--footer start-->
         <footer class="site-footer">
             <div class="text-center">
-                Premier League
+                Brasileirão da Massa
             </div>
         </footer>
         <!--footer end-->
